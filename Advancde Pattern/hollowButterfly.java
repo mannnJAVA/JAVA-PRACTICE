@@ -1,4 +1,9 @@
-
+/*1. print hollow right angle triangle
+2.remove base line of triangle
+3.print one more triangle beside first triangle 
+4. flip 2nd triangle like mirror reflection
+5. now you achive the upper half of the butter fly rewrite above code just flip it upside down 
+6. here hollow butterfly is printed*/
 import java.util.Scanner;
 
 public class hollowButterfly {
