@@ -1,4 +1,4 @@
-
+/*Butterfly star pattern */
 import java.util.Scanner;
 
 
