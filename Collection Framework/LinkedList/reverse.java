@@ -21,5 +21,7 @@ public class reverse {
             reversed.add(list.get(i));
         }
         System.out.println(reversed);
+
+      
     }  
 }
