@@ -8,6 +8,7 @@ public class MoveZeros {
       System.out.print(n + " ");
     }
   }
+
   static void moveZeros(int[] arr) {
     int j = 0;
     for (int i = 0; i < arr.length; i++) {
@@ -17,7 +18,7 @@ public class MoveZeros {
         arr[j] = temp;
         j++;
       }
-
+      
     }
   }
 }
