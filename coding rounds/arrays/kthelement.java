@@ -1,6 +1,6 @@
 import java.util.Collections;
 import java.util.PriorityQueue;
-
+//kth smallest element using priority queue better than sorting time complexity O(n log k)
 public class kthelement {
   public static void main(String[] args) {
     int arr[] = { 1, 2, 4, 3, 5 ,8};
