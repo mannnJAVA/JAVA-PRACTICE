@@ -3,6 +3,8 @@ public class Armstrong {
   public static void main(String[] args) {
     System.out.println("Armstrong Number\n");
 
+
+
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter the number : ");
     int n = sc.nextInt();
